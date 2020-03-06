@@ -1,0 +1,4 @@
+
+[submodule "src/shared"]
+	path = src/shared
+	url = https://github.com/jlyshoel/react-example-submodule
