@@ -2,7 +2,7 @@
 
 This is a quick overview on how to use gitsubmodule in a React project. This is a simple way of sharing code and configuration between multiple apps, which still lets you keep working with a [GitHub Flow](https://guides.github.com/introduction/flow/) workflow.
 
-When configuring your new app / repo, you can select one directory (does't have to be on root level) that you want to configure to get content from a submodule. 
+When configuring your new app / repo, you can select one directory that you want to configure to get content from a submodule. 
 
 For this guide, we'll use /src/shared
 
