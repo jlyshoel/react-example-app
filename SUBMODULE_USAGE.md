@@ -23,7 +23,7 @@ git submodule add https://github.com/jlyshoel/react-example-submodule shared
 
 When doing a branch, fetch/pull inside the submodule, you'll be asked to make a commit to your main repo. This will specify which commit, from the submodule, should be used with your current commit in the main repo. 
 
-![Commit from main repo](readme_mainrepocommit.png)
+![Commit from main repo](https://raw.githubusercontent.com/jlyshoel/react-example-app/master/readme_mainrepocommit.png)
 
 ## 3. Working with content in submodules
 
