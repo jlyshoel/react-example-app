@@ -5,11 +5,12 @@ When configuring your new app / repo, you can select one directory (does't have 
 
 For this guide, we'll use /src/shared
 
-
-
+In this example, we'll be using two repos. One [ExampleApp](https://github.com/jlyshoel/react-example-app) and one [shared submodule](https://github.com/jlyshoel/react-example-submodule) 
 
 
 ## 1. Configure
+
+When configuring your ExampleApp, run the command below. 
 
 On the command line: 
 ```
@@ -67,7 +68,8 @@ git pull
 ```
 
 
-## 3. Running example app
+## 4. Running ExampleApp
 
-awdwad
+If you want to to run the example locally, check out the example git repo and run **npm start*.
 
+The ExapmleApp is a simple React app, fetching some content from the submodule.
